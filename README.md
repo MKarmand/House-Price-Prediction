@@ -1,4 +1,8 @@
-# Laporan Proyek Machine Learning - Nama Anda
+# Prediksi Harga Rumah
+
+[Dataset](https://www.kaggle.com/datasets/wisnuanggara/daftar-harga-rumah?select=DATA+RUMAH.xlsx).
+[Streamlit](https://house-price-prediction-mka.streamlit.app/).
+
 
 ## Domain Proyek
 
@@ -33,7 +37,7 @@ Menjelaskan tujuan dari pernyataan masalah:
 ## Data Understanding
 Pada proyek ini, kami menggunakan dataset yang berisi informasi terkait harga rumah yang dijual. Dataset ini mencakup berbagai fitur properti, seperti harga rumah, luas bangunan (LB), luas tanah (LT), jumlah kamar tidur (KT), jumlah kamar mandi (KM), jumlah kapasitas mobil dalam garasi (GRS). Dataset ini terdiri dari 1010 entri dengan 8 kolom yang mewakili karakteristik utama yang mempengaruhi harga rumah. Data ini akan digunakan untuk menganalisis pola-pola harga properti berdasarkan faktor-faktor yang ada, serta untuk membangun model prediktif yang dapat memperkirakan harga rumah di masa depan.
 
-Data: [KAGGLE](https://www.kaggle.com/datasets/wisnuanggara/daftar-harga-rumah?select=DATA+RUMAH.xlsx).
+
 
 
 ### Variabel-variabel pada Kaggle dataset adalah sebagai berikut:
@@ -180,5 +184,4 @@ Secara keseluruhan, Random Forest lebih unggul dibandingkan dengan Linear Regres
 
 Random Forest Regressor menunjukkan performa prediksi harga rumah yang lebih unggul dibandingkan Linear Regression berdasarkan metrik evaluasi. Pemilihan dan perbandingan model ini secara langsung menjawab *problem statement* dan mencapai *goals* yang ditetapkan dalam *business understanding*.
 
-**---Ini adalah bagian akhir laporan---**
 
